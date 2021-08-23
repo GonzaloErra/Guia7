@@ -1,0 +1,10 @@
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\obj\Debug\Guia7.csproj.AssemblyReference.cache
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\obj\Debug\Guia7.Form1.resources
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\obj\Debug\Guia7.Properties.Resources.resources
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\obj\Debug\Guia7.csproj.GenerateResource.cache
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\obj\Debug\Guia7.csproj.CoreCompileInputs.cache
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\bin\Debug\Guia7.exe.config
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\bin\Debug\Guia7.exe
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\bin\Debug\Guia7.pdb
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\obj\Debug\Guia7.exe
+D:\Facultad 2021\TLYA\Visual Studio\SEGUNDA PARTE DE MATERIA\Guia7\obj\Debug\Guia7.pdb
